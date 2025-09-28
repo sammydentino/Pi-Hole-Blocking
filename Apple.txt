@@ -10,5 +10,5 @@
 0.0.0.0 *.apple.com.edgekey.net
 0.0.0.0 *.aaplimg.com
 0.0.0.0 *.mzstatic.com
-0.0.0.0 *apple.com.akadns.net
+0.0.0.0 *.apple.com.akadns.net
 0.0.0.0 *.cdn-apple.com
