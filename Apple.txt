@@ -1,0 +1,14 @@
+0.0.0.0 apple.com
+0.0.0.0 icloud.com
+0.0.0.0 mask.icloud.com
+0.0.0.0 mask-h2.icloud.com
+0.0.0.0 *.apple.com
+0.0.0.0 *.icloud.com
+0.0.0.0 *.me.com
+0.0.0.0 *.icloud-content.com
+0.0.0.0 *.apple-dns.net
+0.0.0.0 *.apple.com.edgekey.net
+0.0.0.0 *.aaplimg.com
+0.0.0.0 *.mzstatic.com
+0.0.0.0 *apple.com.akadns.net
+0.0.0.0 *.cdn-apple.com
