@@ -2,7 +2,7 @@
 0.0.0.0 icloud.com
 0.0.0.0 mask.icloud.com
 0.0.0.0 mask-h2.icloud.com
-0.0.0.0 *.apple.com
+*.apple.com
 0.0.0.0 *.icloud.com
 0.0.0.0 *.me.com
 0.0.0.0 *.icloud-content.com
